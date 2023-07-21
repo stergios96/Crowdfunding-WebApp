@@ -1,0 +1,172 @@
+html {
+    font-size: 14px;
+}
+
+
+* {
+    font-family: Inter;
+    text-decoration: none !important;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    text-align: center;
+    margin-bottom: 60px;
+    background-color: #D5FFFB
+}
+
+.creorba {
+    background-color: #8a6626;
+    border-radius: 20px;
+}
+
+.title {
+    color: black;
+}
+
+.button1, .button2 {
+    color: #FF7800 !important;
+    border-radius: 50px;
+    box-sizing: border-box;
+    align-items: center;
+    display: inline-flex;
+    font-size: 24px;
+    font-weight: 800;
+    line-height: 20px;
+    max-width: 250px;
+    max-height: 50px;
+    min-width: 0px;
+    text-decoration: none !important;
+    padding: 2%;
+    background-color: #E0E0E0
+}
+
+    .button1:hover,
+    .button1:focus {
+        background-color: #696969;
+        box-shadow: rgba(0, 0, 0, 0.1) 0 4px 12px;
+    }
+
+    .button1:hover {
+        transform: translateY(-1px);
+    }
+
+    .button1 :active {
+        background-color: #696969;
+        box-shadow: rgba(0, 0, 0, .06) 0 2px 4px;
+        transform: translateY(0);
+    }
+
+    .button2:hover,
+    .button2:focus {
+        background-color: #696969;
+        box-shadow: rgba(0, 0, 0, 0.1) 0 4px 12px;
+    }
+
+    .button2:hover {
+        transform: translateY(-1px);
+    }
+
+    .button2 :active {
+        background-color: #696969;
+        box-shadow: rgba(0, 0, 0, .06) 0 2px 4px;
+        transform: translateY(0);
+    }
+
+#select-title {
+    color: white;
+    padding-bottom: 5%;
+}
+
+.wrapper {
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+}
+
+    .wrapper .static-txt {
+        color: #fff;
+        font-size: 60px;
+        font-weight: 400;
+    }
+
+    .wrapper .dynamic-txts {
+        margin-left: 15px;
+        height: 90px;
+        line-height: 90px;
+        overflow: hidden;
+    }
+
+.static-text {
+    font-size: 60px;
+    font-weight: 500;
+    color:#575757;
+    font-family: ;
+    
+    
+}
+
+.dynamic-txts li {
+    margin-left: -3%;
+    list-style: none;
+    color: #FF702A;
+    font-size: 60px;
+    font-weight: 500;
+    position: relative;
+    top: 0;
+    animation: slide 15s steps(5) infinite;
+}
+
+@keyframes slide {
+    100% {
+        top: -440px;
+    }
+}
+
+.dynamic-txts li span {
+    position: relative;
+    margin: 5px 0;
+    line-height: 90px;
+}
+
+    .dynamic-txts li span::after {
+        content: "";
+        position: absolute;
+        left: 0;
+        height: 110%;
+        width: 100%;
+        background: #D5FFFB;
+        border-left: 3px solid #FF702A;
+        animation: typing 3s steps(10) infinite;
+    }
+
+@keyframes typing {
+    40%, 60% {
+        left: calc(100%);
+    }
+
+    100% {
+        left: 0;
+    }
+}
+
+#choice {
+    margin-top: 3%;
+    color:white;
+}
+
+.text-area {
+    font-size: 30px;
+    color: #575757;
+    border-radius:20px;
+    text-align:center;
+    
+}
+
