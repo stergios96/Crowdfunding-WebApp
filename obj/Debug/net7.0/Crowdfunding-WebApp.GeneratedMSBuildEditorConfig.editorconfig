@@ -1,0 +1,113 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Crowdfunding_WebApp
+build_property.RootNamespace = Crowdfunding_WebApp
+build_property.ProjectDir = C:\Users\dimke\Desktop\REGEN-PROJE\STERG\Regeneration-Project\Crowdfunding-WebApp\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\dimke\Desktop\REGEN-PROJE\STERG\Regeneration-Project\Crowdfunding-WebApp
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/dimke/Desktop/REGEN-PROJE/STERG/Regeneration-Project/Crowdfunding-WebApp/Views/Admin/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dimke/Desktop/REGEN-PROJE/STERG/Regeneration-Project/Crowdfunding-WebApp/Views/Admin/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dimke/Desktop/REGEN-PROJE/STERG/Regeneration-Project/Crowdfunding-WebApp/Views/Admin/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dimke/Desktop/REGEN-PROJE/STERG/Regeneration-Project/Crowdfunding-WebApp/Views/Admin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dimke/Desktop/REGEN-PROJE/STERG/Regeneration-Project/Crowdfunding-WebApp/Views/Backers/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFja2Vyc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dimke/Desktop/REGEN-PROJE/STERG/Regeneration-Project/Crowdfunding-WebApp/Views/Backers/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFja2Vyc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dimke/Desktop/REGEN-PROJE/STERG/Regeneration-Project/Crowdfunding-WebApp/Views/Backers/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFja2Vyc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dimke/Desktop/REGEN-PROJE/STERG/Regeneration-Project/Crowdfunding-WebApp/Views/Backers/Fund.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFja2Vyc1xGdW5kLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dimke/Desktop/REGEN-PROJE/STERG/Regeneration-Project/Crowdfunding-WebApp/Views/Backers/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFja2Vyc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dimke/Desktop/REGEN-PROJE/STERG/Regeneration-Project/Crowdfunding-WebApp/Views/Backers/MyProjects.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFja2Vyc1xNeVByb2plY3RzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dimke/Desktop/REGEN-PROJE/STERG/Regeneration-Project/Crowdfunding-WebApp/Views/Backers/SelectReward.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFja2Vyc1xTZWxlY3RSZXdhcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dimke/Desktop/REGEN-PROJE/STERG/Regeneration-Project/Crowdfunding-WebApp/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dimke/Desktop/REGEN-PROJE/STERG/Regeneration-Project/Crowdfunding-WebApp/Views/Project/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvamVjdFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dimke/Desktop/REGEN-PROJE/STERG/Regeneration-Project/Crowdfunding-WebApp/Views/Project/CreateSuccess.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvamVjdFxDcmVhdGVTdWNjZXNzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dimke/Desktop/REGEN-PROJE/STERG/Regeneration-Project/Crowdfunding-WebApp/Views/Project/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvamVjdFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dimke/Desktop/REGEN-PROJE/STERG/Regeneration-Project/Crowdfunding-WebApp/Views/Project/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvamVjdFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dimke/Desktop/REGEN-PROJE/STERG/Regeneration-Project/Crowdfunding-WebApp/Views/Project/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvamVjdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dimke/Desktop/REGEN-PROJE/STERG/Regeneration-Project/Crowdfunding-WebApp/Views/Project/SearchByName.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvamVjdFxTZWFyY2hCeU5hbWUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dimke/Desktop/REGEN-PROJE/STERG/Regeneration-Project/Crowdfunding-WebApp/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dimke/Desktop/REGEN-PROJE/STERG/Regeneration-Project/Crowdfunding-WebApp/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dimke/Desktop/REGEN-PROJE/STERG/Regeneration-Project/Crowdfunding-WebApp/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dimke/Desktop/REGEN-PROJE/STERG/Regeneration-Project/Crowdfunding-WebApp/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dimke/Desktop/REGEN-PROJE/STERG/Regeneration-Project/Crowdfunding-WebApp/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = b-yygfk5jhn8
+
+[C:/Users/dimke/Desktop/REGEN-PROJE/STERG/Regeneration-Project/Crowdfunding-WebApp/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-5xwwsd0y1y

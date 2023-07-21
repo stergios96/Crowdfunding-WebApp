@@ -1,0 +1,212 @@
+/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-yygfk5jhn8] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a[b-yygfk5jhn8] {
+  color: #0077cc;
+}
+
+.btn-primary[b-yygfk5jhn8] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-yygfk5jhn8], .nav-pills .show > .nav-link[b-yygfk5jhn8] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-yygfk5jhn8] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-yygfk5jhn8] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-yygfk5jhn8] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-yygfk5jhn8] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer[b-yygfk5jhn8] {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}
+
+html[b-yygfk5jhn8] {
+    font-size: 14px;
+}
+
+
+*[b-yygfk5jhn8] {
+    font-family: Inter;
+    text-decoration: none !important;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html[b-yygfk5jhn8] {
+    position: relative;
+    min-height: 100%;
+}
+
+body[b-yygfk5jhn8] {
+    text-align: center;
+    margin-bottom: 60px;
+    background-color: #313031
+}
+
+.creorba[b-yygfk5jhn8] {
+    background-color: #8a6626;
+    border-radius: 20px;
+}
+
+.title[b-yygfk5jhn8] {
+    color: black;
+}
+
+.button1[b-yygfk5jhn8], .button2[b-yygfk5jhn8] {
+    color: black !important;
+    border-radius: 50px;
+    box-sizing: border-box;
+    align-items: center;
+    display: inline-flex;
+    font-size: 24px;
+    font-weight: 800;
+    line-height: 20px;
+    max-width: 200px;
+    max-height: 30px;
+    min-width: 0px;
+    text-decoration: none !important;
+    padding: 2%;
+}
+
+    .button1:hover[b-yygfk5jhn8],
+    .button1:focus[b-yygfk5jhn8] {
+        background-color: #5d6ed1;
+        box-shadow: rgba(0, 0, 0, 0.1) 0 4px 12px;
+    }
+
+    .button1:hover[b-yygfk5jhn8] {
+        transform: translateY(-1px);
+    }
+
+    .button1 :active[b-yygfk5jhn8] {
+        background-color: #c85000;
+        box-shadow: rgba(0, 0, 0, .06) 0 2px 4px;
+        transform: translateY(0);
+    }
+
+    .button2:hover[b-yygfk5jhn8],
+    .button2:focus[b-yygfk5jhn8] {
+        background-color: #5d6ed1;
+        box-shadow: rgba(0, 0, 0, 0.1) 0 4px 12px;
+    }
+
+    .button2:hover[b-yygfk5jhn8] {
+        transform: translateY(-1px);
+    }
+
+    .button2 :active[b-yygfk5jhn8] {
+        background-color: #c85000;
+        box-shadow: rgba(0, 0, 0, .06) 0 2px 4px;
+        transform: translateY(0);
+    }
+
+#select-title[b-yygfk5jhn8] {
+    color: white;
+    padding-bottom: 5%;
+}
+
+.wrapper[b-yygfk5jhn8] {
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+}
+
+    .wrapper .static-txt[b-yygfk5jhn8] {
+        color: #fff;
+        font-size: 60px;
+        font-weight: 400;
+    }
+
+    .wrapper .dynamic-txts[b-yygfk5jhn8] {
+        margin-left: 15px;
+        height: 90px;
+        line-height: 90px;
+        overflow: hidden;
+    }
+
+.static-text[b-yygfk5jhn8] {
+    font-size: 60px;
+    font-weight: 500;
+    margin-right: -4%;
+}
+
+.dynamic-txts li[b-yygfk5jhn8] {
+    margin-left: 5%;
+    list-style: none;
+    color: #555bdd;
+    font-size: 60px;
+    font-weight: 500;
+    position: relative;
+    top: 0;
+    animation: slide-b-yygfk5jhn8 15s steps(5) infinite;
+}
+
+@keyframes slide-b-yygfk5jhn8 {
+    100% {
+        top: -440px;
+    }
+}
+
+.dynamic-txts li span[b-yygfk5jhn8] {
+    position: relative;
+    margin: 5px 0;
+    line-height: 90px;
+}
+
+    .dynamic-txts li span[b-yygfk5jhn8]::after {
+        content: "";
+        position: absolute;
+        left: 0;
+        height: 100%;
+        width: 100%;
+        background: #313031;
+        border-left: 3px solid #555bdd;
+        animation: typing-b-yygfk5jhn8 3s steps(10) infinite;
+    }
+
+@keyframes typing-b-yygfk5jhn8 {
+    40%, 60% {
+        left: calc(100% + 30px);
+    }
+
+    100% {
+        left: 0;
+    }
+}
+
+#choice[b-yygfk5jhn8] {
+    margin-top: 3%;
+    margin-left: 3%;
+}
+
+.text-area[b-yygfk5jhn8] {
+    font-size: 30px;
+}
